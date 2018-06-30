@@ -1,8 +1,8 @@
 {
-  "RankOne": 1,
-  "RankTwo": 2,
-  "RankThree": 3,
-  "RankFour": 4,
-  "RankFive": 5,
-  "RankSix": 6
+  "Newbie Inviter": 5,
+  "Vixelated Inviter": 30,
+  "Prominent Inviter": 60,
+  "Speechless Inviter": 120,
+  "Legendary Inviter": 240,
+  "Distinguished": 100
 }
